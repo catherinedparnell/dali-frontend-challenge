@@ -17,6 +17,7 @@
 ## What I'm proud of...
 * I learned TypeScript so that I could build this challenge. I wanted to learn something new and I had a lot of fun doing it!
 * Since this was a front-end challenge I focused on learning more about functional components and state storage in redux with TypeScript instead of building an API, which I felt pretty comfortable doing. Instead I stepped out of my comfort zone so I could learn new technologies.
+* The first thing I would start if I had more time on this project is to encorporate a back-end framework that can handle user authentication based on roles (DALI member v. non-DALI member) and storage of post and profile data.
 
 ## This project was made with Create React App
 
