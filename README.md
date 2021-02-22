@@ -1,3 +1,17 @@
+# DALI Front-End Social Media Challenge
+## Key UX/UI Features 
+* Search & filter DALI team members' profiles using various attributes
+* Follow & unfollow specific team members of interest
+* Post to board and delete from board
+
+## Specifications
+* Built in TypeScript with React/Redux
+* Persists Redux state using local storage
+
+## What I'm proud of...
+* I learned TypeScript so that I could build this challenge. I wanted to learn something new and I had a lot of fun doing it!
+* Since this was a front-end challenge I focused on learning more about functional components and state storage in redux with TypeScript instead of building an API, which I felt pretty comfortable doing. Instead I stepped out of my comfort zone so I could learn new technologies.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,26 +59,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
