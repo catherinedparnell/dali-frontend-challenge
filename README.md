@@ -1,5 +1,5 @@
 # DALI Front-End Social Media Challenge
-## Key UX/UI Features 
+## Key Features 
 * Search & filter DALI team members' profiles using various attributes
 
 ![Filter & search for DALI members by attributes](gifs/filteringGIF.gif)
@@ -10,7 +10,7 @@
 
 * Follow & unfollow specific team members of interest
 
-## Specifications
+## Technical Specifications
 * Built in TypeScript with React/Redux
 * Persists Redux state using local storage
 
