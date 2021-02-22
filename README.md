@@ -1,8 +1,14 @@
 # DALI Front-End Social Media Challenge
 ## Key UX/UI Features 
 * Search & filter DALI team members' profiles using various attributes
-* Follow & unfollow specific team members of interest
+
+![Filter & search for DALI members by attributes](gifs/filteringGIF.gif)
+
 * Post to board and delete from board
+
+![Posts to board](gifs/postGIF.gif)
+
+* Follow & unfollow specific team members of interest
 
 ## Specifications
 * Built in TypeScript with React/Redux
@@ -12,7 +18,7 @@
 * I learned TypeScript so that I could build this challenge. I wanted to learn something new and I had a lot of fun doing it!
 * Since this was a front-end challenge I focused on learning more about functional components and state storage in redux with TypeScript instead of building an API, which I felt pretty comfortable doing. Instead I stepped out of my comfort zone so I could learn new technologies.
 
-# Getting Started with Create React App
+## This project was made with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
